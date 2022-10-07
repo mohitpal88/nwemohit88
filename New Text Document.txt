@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Services</title>
+    <!-- Google Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,800,500,600,300,700' rel='stylesheet'
+        type='text/css'>
+    <!-- ionicons Fonts for icons -->
+    <link href="css/ionicons.min.css" rel="stylesheet">
+    <!-- bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <!-- Styles CSS-->
+    <link href="css/style.css" rel="stylesheet">
+    <!-- Animate CSS-->
+    <link href="css/animate.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <![endif]-->
+</head>
+
+<body class="box-layout">
+    <!-- Page Loader -->
+    <div class="page-loader">
+        <div class="loader">
+            <span class="cssload-loading"></span>
+        </div>
+    </div>
+    <!-- End Page Loader -->
+    <div class="inner-conterner">
+        <!-- inner-conterner -->
+        <header class="site-header">
+            <div class="header-inner">
+                <!-- navigation panel -->
+                <div class="container">
+                    <div class="row">
+                        <div class="header-table col-md-12">
+                            <div class="brand">
+                                <a href="index.html">
+                                    <img src="images/logo.png" alt="Enfold">
+                                </a>
+                            </div>
+                            <nav id="nav-wrap" class="main-nav">
+                                <div id="mobnav-btn"> </div>
+                                <ul class="sf-menu">
+                                    <li class="current">
+                                        <a href="index.html">Home</a>
+                                    </li>
+                                    <li>
+                                        <a href="about">About Us</a>
+                                    </li>
+                                    <li>
+                                        <a href="technology.html">Technology </a>
+                                    </li>
+                                    <li>
+                                        <a href="contact.html">Contact Us</a>
+                                    </li>
+                                    <li>
+                                        <a href="services.html">Service</a>
+                                    </li>
+                                    <li class="menu-search-bar">
+                                        <a id="search-label"><i class="ion-search"></i></a>
+                                        <form class="search-bar" id="searchform">
+                                            <input type="text" placeholder="Search..." name="s">
+                                        </form>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                    <!-- End navigation panel -->
+                </div>
+                <!-- End navigation panel -->
+            </div>
+        </header>
+
+        <!-- About Section -->
+        <div class="container-about">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3 class="title-un">Our Services</h3>
+                        <div class="title-un-icon"><i class="fa ion-ios-flame-outline"></i></div>
+                        <p class="title-un-des">Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper
+                            suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor
+                            in hendrerit in vulputate velit esse molestie consequat, </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <!-- Service item -->
+                        <div class="service-box-sb wow fadeInUp">
+                            <div class="service-img">
+                                <img src="images/sas.jpg" alt="Enfold">
+                            </div>
+                            <div class="service-info">
+                                <h5>UNIQUE FEATURES</h5>
+                                <div class="desc">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris iaculis sapien sit
+                                    amet arcu ornare, non commodo ligula consectetur adipiscing elit.
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Service item -->
+                    </div>
+                    <div class="col-md-4">
+                        <!-- Service item -->
+                        <div class="service-box-sb wow fadeInUp" data-wow-delay=".2s">
+                            <div class="service-img">
+                                <img src="images/sasa.jpg" alt="Enfold">
+                            </div>
+                            <div class="service-info">
+                                <h5>RESPONSIVE LAYOUT</h5>
+                                <div class="desc">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris iaculis sapien sit
+                                    amet arcu ornare, non commodo ligula consectetur adipiscing elit.
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Service item -->
+                    </div>
+                    <div class="col-md-4">
+                        <!-- Service item -->
+                        <div class="service-box-sb wow fadeInUp" data-wow-delay=".4s">
+                            <div class="service-img">
+                                <img src="images/sasaa.jpg" alt="Enfold">
+                            </div>
+                            <div class="service-info">
+                                <h5>PAGE BUILDER</h5>
+                                <div class="desc">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris iaculis sapien sit
+                                    amet arcu ornare, non commodo ligula consectetur adipiscing elit.
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Service item -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End About Section -->
+        <!-- Story Section -->
+
+        <!-- End Story Section -->
+        <!-- Service Section -->
+
+        <!-- End Service item -->
+        <!-- Testimonials Section -->
+
+        <!-- End Testimonials Section -->
+        <!-- Portfolio Section -->
+
+        <div class="gallery-portfolio-container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+
+                        <div class="classic-portfolio col-3-portfolio portfolio gallery-portfolio shortc-mp">
+                            <div class="project-item applications illustration">
+                                <div class="project-image">
+                                    <img src="images/gallery/i4.jpg" alt="">
+
+                                </div>
+                            </div>
+                            <div class="project-item illustration  webdesign">
+                                <div class="project-image">
+                                    <img src="images/gallery/i5.jpg" alt="">
+
+                                </div>
+                            </div>
+                            <div class="project-item webdesign branding applications photography">
+                                <div class="project-image">
+                                    <img src="images/gallery/i6.jpg" alt="">
+
+                                </div>
+                            </div>
+                            <div class="project-item webdesign illustration  ">
+                                <div class="project-image">
+                                    <img src="images/gallery/i7.jpg" alt="">
+
+                                </div>
+                            </div>
+                            <div class="project-item webdesign">
+                                <div class="project-image">
+                                    <img src="images/gallery/i1.jpg" alt="">
+
+                                </div>
+                            </div>
+                            <div class="project-item applications photography">
+                                <div class="project-image">
+                                    <img src="images/gallery/i2.jpg" alt="">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Portfolio Section -->
+
+        <!-- Blog Section -->
+        <div class="container-about">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul class="blog-posts-g">
+                            <li>
+                                <div class="post-img">
+                                    <a href="#">
+                                        <img src="images/post-1.jpg" alt="Meet the New UI Design">
+                                    </a>
+                                </div>
+                                <div class="post-content">
+                                    <h5><a href="#"> Enjoying Sunrise Holidays </a></h5>
+
+                                    <p>
+                                        Dow wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
+                                        lobortis nisl. Duis autem vel eum iriure dolor in hendrerit in vulputate velit
+                                        esse iriure molestie...
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="post-img">
+                                    <a href="#">
+                                        <img src="images/post-4.jpg" alt="A LOOK INSIDE THE Workspace">
+                                    </a>
+                                </div>
+                                <div class="post-content">
+                                    <h5> <a href="#"> A LOOK INSIDE THE Workspace </a></h5>
+
+                                    <p>
+                                        Dow wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
+                                        lobortis nisl. Duis autem vel eum iriure dolor in hendrerit in vulputate velit
+                                        esse iriure molestie...
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="post-img">
+                                    <a href="#">
+                                        <img src="images/post-2.jpg" alt="Inspiration of UX design">
+                                    </a>
+                                </div>
+                                <div class="post-content">
+                                    <h5><a href="#"> Inspiration of UX design </a></h5>
+
+                                    <p>
+                                        Dow wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
+                                        lobortis nisl. Duis autem vel eum iriure dolor in hendrerit in vulputate velit
+                                        esse iriure molestie...
+                                    </p>
+                                </div>
+                            </li>
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Blog Section -->
+        <!-- Fact box Section -->
+
+        <!-- End Fact box Section -->
+        <!-- Footer area -->
+        <div class="footer-area-container">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="footer-widget">
+                            <a href="index.html"><img class="footer-logo" src="images/logo.png" alt="Enfold"></a>
+                            <p>Dow wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis
+                                nisl. Duis autem vel eum iriure dolor in hendrerit.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="footer-widget widget_nav_menu">
+                            <h4 class="footer-widget-title">Get In Touch</h4>
+                            <p>Caecenas wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
+                                lobortis nisl.</p>
+                            <div> <i class="ion-ios-location-outline"></i> Moonshine St. 14/05 Light City
+                                <br>
+                                <i class="ion-ios-telephone-outline"></i> 00 (123) 456 78 90
+                                <br>
+                                <i class="ion-paper-airplane"></i> <a href="first.last@email.com">
+                                    first.last@email.com</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="footer-widget widget_nav_menu">
+                            <h4 class="footer-widget-title">LINKS</h4>
+                            <ul>
+                                <li class="menu-item"><a href="#"> Brand Creation </a></li>
+                                <li class="menu-item"><a href="#"> Press inquiries</a></li>
+                                <li class="menu-item"><a href="#"> Corporate Identity </a></li>
+                                <li class="menu-item"><a href="#"> Company Analysis </a></li>
+                                <li class="menu-item"><a href="#"> Creative homepage </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="footer-widget widget_nav_menu">
+                            <h4 class="footer-widget-title">LINKS</h4>
+                            <ul>
+
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="about.html">About Us</a></li>
+                                <li><a href="services.html">Service</a></li>
+                                <li><a href="technology.html">Technology</a></li>
+                                <li><a href="contact.html">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Footer area -->
+        <!-- Footer -->
+
+        <!-- End Footer -->
+    </div>
+    <!-- End inner-conterner -->
+    <!-- ================================================== -->
+    <!-- Placed js files at the end of the document so the pages load faster -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/superfish.js"></script>
+    <script src="js/jquery.easing.js"></script>
+    <script src="js/wow.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.magnific-popup.js"></script>
+    <script src="js/jflickrfeed.min.js"></script>
+    <script src="js/jquery.fitvids.js"></script>
+    <script src="js/jquery.fractionslider.min.js"></script>
+    <script src="js/jquery-ui-1.10.4.custom.min.js"></script>
+    <script type="text/javascript" src="js/SmoothScroll.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
